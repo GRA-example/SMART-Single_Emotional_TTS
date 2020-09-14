@@ -3,6 +3,8 @@ inflect==0.2.5
 librosa==0.7.1
 scipy==1.0.0
 Unidecode==0.4.21
+numba==0.43
+g2pk
 pandas
 numpy
 tensorboardX
